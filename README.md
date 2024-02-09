@@ -16,7 +16,7 @@ Hospitality Insights-PowerBI is a data analysis project tailored for the hospita
 
 <hr>
 
-![dashboard](https://github.com/sunjai17/The-Hospitality-Insights-PowerBi/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pdf)
+![dashboard](https://github.com/sunjai17/The-Hospitality-Insights-PowerBi/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain_page-0001.jpg)
 
 
 ## 🎯 Motivation :
