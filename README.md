@@ -10,7 +10,6 @@ Hospitality Insights-PowerBI is a data analysis project tailored for the hospita
   <p>A Data Analysis Project in Hospitality Domain with PowerBI</p>
     <a href="https://www.youtube.com/watch?v=tT4V7zguCnc&ab_channel=codebasics" target="_blank">Inspired by Codebasics</a>
     🛎️
-    <a href="https://github.com/Hamagistral/Atliq-hospitality/issues" target="_blank">Request Feature</a>
 </div>
 <br>
 
